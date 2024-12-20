@@ -1,0 +1,29 @@
+[
+    {
+      "title": "Sales Data Analysis",
+      "imageSrc": "/assets/projects/Screenshot.png",
+      "description": "Analyzed automobile sales data using Python, delivering insights through visualization and statistical analysis.",
+      "skills": ["Python", "Pandas", "Numpy", "Matplotlib"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Balajii-Prakash/SalesDataAnalysis"
+    },
+    {
+      "title": "Youtube clone",
+      "imageSrc": "/assets/projects/Screenshot1.png",
+      "description": "Developed a YouTube clone with HTML and CSS, featuring responsive design and user-friendly elements.",
+      "skills": ["HTML","CSS","JavaScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Balajii-Prakash/YouTube-Clone-Using-HTML-And-CSS"
+    },
+
+
+
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "/assets/projects/Screenshot2.png",
+      "description": "Developed a responsive portfolio website using React.js to showcase skills with dynamic and modern design.",
+      "skills": ["HTML","CSS","React JS","JSON"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

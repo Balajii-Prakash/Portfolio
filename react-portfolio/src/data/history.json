@@ -1,0 +1,31 @@
+[
+
+    {
+        "role": "Full Stack Development",
+        "organisation": "Qspiders",
+        "startDate": "March, 2022",
+        "endDate": "Present",
+        "experiences": ["Learning front-end technologies: HTML, CSS, JavaScript, and responsive design principles.",
+                        "Mastering back-end development: Using Python and SQL for server-side logic and database management.",
+                          "Gaining hands-on experience: Building and deploying dynamic web applications." ,
+                          "Developing full stack skills: Focused on creating robust, scalable, and user-friendly web solutions"],
+  
+        "imageSrc": "/assets/history/course.png "
+      },
+
+
+    {
+      "role": "Data Science Intern",
+      "organisation": "Shiash Info Solutions",
+      "startDate": "Feb, 2024",
+      "endDate": "April,2024",
+      "experiences": ["Gained foundational knowledge: Learned the basics of data analysis, data cleaning, and data visualization",
+                       "Worked with Python libraries: Used Pandas, NumPy, and Matplotlib to manipulate and visualize datasets",
+                       "Developed problem-solving skills: Applied statistical methods to draw insights and support data-driven decisions."],
+
+
+
+
+      "imageSrc": "/assets/history/intern.png"
+    }
+]
